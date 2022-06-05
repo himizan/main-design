@@ -132,10 +132,9 @@ color: #515151;
   top: 20px;
 }
 .header-part img{
-  position: absolute;
- 
+  position: relative;
   left: 165px;
-  top: 200px;
+  top: 100px;
   }
 .header-part .button-1{
   position: absolute;
