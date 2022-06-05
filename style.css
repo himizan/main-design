@@ -133,11 +133,10 @@ color: #515151;
 }
 .header-part img{
   position: absolute;
-width: 1110px;
-height: 505px;
-left: 165px;
-top: 200px;
-}
+ 
+  left: 165px;
+  top: 200px;
+  }
 .header-part .button-1{
   position: absolute;
 width: 525px;
